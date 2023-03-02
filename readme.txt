@@ -20,7 +20,13 @@ Customize Customize Dokan Dashboard Endpoints. Modify existing Endpoints as well
 
 Customize your default Customize Dokan Dashboard Endpoints. Reorder them , hide existing core endpoints. 
 
+Download Customize dokan dashboard endpoints plugin free version
 
+https://wordpress.org/plugins/customize-dokan-dashboard-endpoints/
+
+Get Customize dokan dashboard endpoints plugin pro version
+
+https://www.sysbasics.com/downloads/customize-dokan-dashboard-endpoints-pro/
 
 
 == Customize Dokan Dashboard Endpoints features ==
